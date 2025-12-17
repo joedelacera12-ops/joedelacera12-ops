@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Joedel%20Acera&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2933,50:374151,100:111827&height=95&section=header&text=Joedel%20Acera&fontSize=32&fontColor=ffffff" />
 
-<b>Information Technology Student</b> • <b>Aspiring Software Developer</b> • Philippines
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<b>Information Technology Student</b>  
+<b>Aspiring Software Developer</b>  
+Philippines
 
 </div>
+
+---
+
+## Academic Profile
+This GitHub profile presents academic and prototype systems developed in partial fulfillment of course requirements and system development subjects. The projects emphasize functional correctness, proper system flow, database integration, and adherence to basic software engineering principles.
 
 ---
 
@@ -21,18 +19,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### Profile Overview
-I am an Information Technology student focused on developing academic and prototype systems. My work includes web and mobile application development, database-driven solutions, and basic machine learning applications. I prioritize clarity, system flow, and usability in all projects.
+## Academic Focus Areas
+• Web-Based System Development  
+• Mobile Application Development  
+• Database-Driven Applications  
+• Image Classification (Machine Learning)  
+• Academic & Defense-Ready Systems  
 
 </td>
 <td width="50%" valign="top">
 
-### Core Focus Areas
-• Web-Based Systems  
-• Mobile Application Development  
-• Firebase & Database Integration  
-• Image Classification (ML)  
-• Academic & Defense-Ready Systems  
+## Technical Competencies
+• System Analysis and Design  
+• CRUD Operations  
+• Authentication and Role-Based Access  
+• 3-Tier Architecture  
+• Firebase Realtime Database Integration  
 
 </td>
 </tr>
@@ -44,7 +46,7 @@ I am an Information Technology student focused on developing academic and protot
 <tr>
 <td width="33%" valign="top">
 
-### Languages
+## Programming Languages
 Python  
 Dart  
 JavaScript  
@@ -53,20 +55,20 @@ SQL
 </td>
 <td width="33%" valign="top">
 
-### Frameworks & Tools
+## Frameworks & Tools
 Flutter  
-Firebase Realtime DB  
+Firebase Realtime Database  
 MySQL  
-Git & GitHub  
+Git and GitHub  
 
 </td>
 <td width="34%" valign="top">
 
-### Development Concepts
-CRUD Operations  
-Authentication  
-Role-Based Access  
-3-Tier Architecture  
+## Development Concepts
+User Interface Design  
+System Validation  
+Data Persistence  
+Modular Development  
 
 </td>
 </tr>
@@ -74,25 +76,22 @@ Role-Based Access
 
 ---
 
-## Selected Projects
+## Selected Academic Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <b>Image Classification System</b><br/>
-• Image upload and camera capture<br/>
-• Pre-trained ML model<br/>
-• Firebase Realtime Database<br/>
-Repository: <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
+An academic project implementing image classification using a pre-trained machine learning model. The system supports image upload and camera capture, with prediction results stored and managed using Firebase Realtime Database.<br/><br/>
+<b>Repository:</b> <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
 
 </td>
 <td width="50%" valign="top">
 
 <b>Flutter UI Components</b><br/>
-• Reusable widgets and layouts<br/>
-• Responsive mobile UI<br/>
-Repository: <code>Flutter_Widget_UIComponents</code>
+A collection of reusable Flutter widgets designed to demonstrate mobile interface design principles, responsiveness, and modular UI development for academic purposes.<br/><br/>
+<b>Repository:</b> <code>Flutter_Widget_UIComponents</code>
 
 </td>
 </tr>
@@ -100,10 +99,15 @@ Repository: <code>Flutter_Widget_UIComponents</code>
 
 ---
 
+## Academic Development Context
+All repositories reflect coursework, laboratory exercises, and final project submissions. Emphasis is placed on clear documentation, structured code organization, and demonstrable system functionality suitable for academic evaluation and oral defense.
+
+---
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=graywhite" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=graywhite" width="49%" />
 
 </div>
 
@@ -111,6 +115,6 @@ Repository: <code>Flutter_Widget_UIComponents</code>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2933,50:374151,100:111827&height=45&section=footer" />
 
 </div>
