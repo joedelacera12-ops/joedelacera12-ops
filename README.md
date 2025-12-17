@@ -4,7 +4,7 @@
 
 <b>Information Technology Student</b><br/>
 <b>Aspiring Software Developer</b><br/>
-Philippines
+🇵🇭 Philippines
 
 <br/>
 
@@ -21,11 +21,11 @@ Philippines
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=35&section=header&text=Academic%20Profile&fontSize=18&fontColor=ffffff" />
 
-This GitHub profile contains academic and prototype systems developed as part of Information Technology coursework. Projects are designed with emphasis on system structure, database integration, usability, and compliance with academic evaluation standards. Code organization and documentation are prepared for oral defense and technical review.
+This GitHub profile showcases academic and prototype systems developed as part of Information Technology coursework. Projects emphasize system design, database integration, usability, and academic evaluation standards. All code is structured and documented for technical presentation and defense readiness.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:1e293b&height=35&section=header&text=Academic%20Focus%20Areas&fontSize=18&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:1e293b&height=35&section=header&text=Focus%20Areas&fontSize=18&fontColor=ffffff" />
 
 • Web-Based System Development  
 • Mobile Application Development  
@@ -35,32 +35,30 @@ This GitHub profile contains academic and prototype systems developed as part of
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:475569,100:334155&height=35&section=header&text=Technical%20Competencies&fontSize=18&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:475569,100:334155&height=35&section=header&text=Technical%20Skills&fontSize=18&fontColor=ffffff" />
 
-• Programming Languages: Python, Dart, JavaScript, SQL  
-• Frameworks and Tools: Flutter, Firebase Realtime Database, MySQL  
-• Software Concepts: CRUD Operations, Authentication, Role-Based Access  
-• Architecture and Design: 3-Tier Architecture, Modular Development  
+• **Languages:** Python, Dart, JavaScript, SQL  
+• **Frameworks & Tools:** Flutter, Firebase, MySQL  
+• **Software Concepts:** CRUD, Authentication, Role-Based Access  
+• **Architecture & Design:** 3-Tier Architecture, Modular Development  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:64748b,100:475569&height=35&section=header&text=Selected%20Academic%20Projects&fontSize=18&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:64748b,100:475569&height=35&section=header&text=Selected%20Projects&fontSize=18&fontColor=ffffff" />
 
 <b>Image Classification System</b>  
-An academic implementation of an image classification application utilizing a pre-trained machine learning model. The system supports image upload and camera capture, with prediction results stored and managed using Firebase Realtime Database.  
+Academic project using a pre-trained ML model for image classification with upload & camera support. Data stored in Firebase Realtime Database.  
 Repository: <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
 
-<br/>
-
 <b>Flutter UI Components</b>  
-A curated collection of reusable Flutter widgets demonstrating mobile interface design principles, responsiveness, and modular UI construction for academic system development.  
+Reusable Flutter widgets showcasing responsive design, modular UI, and mobile interface best practices.  
 Repository: <code>Flutter_Widget_UIComponents</code>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:94a3b8,100:64748b&height=35&section=header&text=Academic%20Development%20Context&fontSize=18&fontColor=0f172a" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:94a3b8,100:64748b&height=35&section=header&text=Academic%20Context&fontSize=18&fontColor=0f172a" />
 
-All repositories are structured to support academic validation, including readable code, logical folder organization, and functional completeness. The projects are suitable for technical presentation, demonstration, and system defense.
+All repositories are structured for academic validation: readable code, logical folder organization, and functional completeness. Projects are suitable for technical presentations, demonstrations, and defense.
 
 ---
 
