@@ -1,113 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2933,50:374151,100:111827&height=95&section=header&text=Joedel%20Acera&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=110&section=header&text=Joedel%20Acera&fontSize=32&fontColor=ffffff" />
 
-<b>Information Technology Student</b>  
-<b>Aspiring Software Developer</b>  
+<b>Information Technology Student</b><br/>
+<b>Aspiring Software Developer</b><br/>
 Philippines
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## Academic Profile
-This GitHub profile presents academic and prototype systems developed in partial fulfillment of course requirements and system development subjects. The projects emphasize functional correctness, proper system flow, database integration, and adherence to basic software engineering principles.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=35&section=header&text=Academic%20Profile&fontSize=18&fontColor=ffffff" />
+
+This GitHub profile contains academic and prototype systems developed as part of Information Technology coursework. Projects are designed with emphasis on system structure, database integration, usability, and compliance with academic evaluation standards. Code organization and documentation are prepared for oral defense and technical review.
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:1e293b&height=35&section=header&text=Academic%20Focus%20Areas&fontSize=18&fontColor=ffffff" />
 
-## Academic Focus Areas
 • Web-Based System Development  
 • Mobile Application Development  
 • Database-Driven Applications  
-• Image Classification (Machine Learning)  
-• Academic & Defense-Ready Systems  
-
-</td>
-<td width="50%" valign="top">
-
-## Technical Competencies
-• System Analysis and Design  
-• CRUD Operations  
-• Authentication and Role-Based Access  
-• 3-Tier Architecture  
-• Firebase Realtime Database Integration  
-
-</td>
-</tr>
-</table>
+• Image Classification using Pre-trained Models  
+• Academic and Defense-Ready System Implementation  
 
 ---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:475569,100:334155&height=35&section=header&text=Technical%20Competencies&fontSize=18&fontColor=ffffff" />
 
-## Programming Languages
-Python  
-Dart  
-JavaScript  
-SQL  
-
-</td>
-<td width="33%" valign="top">
-
-## Frameworks & Tools
-Flutter  
-Firebase Realtime Database  
-MySQL  
-Git and GitHub  
-
-</td>
-<td width="34%" valign="top">
-
-## Development Concepts
-User Interface Design  
-System Validation  
-Data Persistence  
-Modular Development  
-
-</td>
-</tr>
-</table>
+• Programming Languages: Python, Dart, JavaScript, SQL  
+• Frameworks and Tools: Flutter, Firebase Realtime Database, MySQL  
+• Software Concepts: CRUD Operations, Authentication, Role-Based Access  
+• Architecture and Design: 3-Tier Architecture, Modular Development  
 
 ---
 
-## Selected Academic Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:64748b,100:475569&height=35&section=header&text=Selected%20Academic%20Projects&fontSize=18&fontColor=ffffff" />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<b>Image Classification System</b>  
+An academic implementation of an image classification application utilizing a pre-trained machine learning model. The system supports image upload and camera capture, with prediction results stored and managed using Firebase Realtime Database.  
+Repository: <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
 
-<b>Image Classification System</b><br/>
-An academic project implementing image classification using a pre-trained machine learning model. The system supports image upload and camera capture, with prediction results stored and managed using Firebase Realtime Database.<br/><br/>
-<b>Repository:</b> <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-<b>Flutter UI Components</b><br/>
-A collection of reusable Flutter widgets designed to demonstrate mobile interface design principles, responsiveness, and modular UI development for academic purposes.<br/><br/>
-<b>Repository:</b> <code>Flutter_Widget_UIComponents</code>
-
-</td>
-</tr>
-</table>
+<b>Flutter UI Components</b>  
+A curated collection of reusable Flutter widgets demonstrating mobile interface design principles, responsiveness, and modular UI construction for academic system development.  
+Repository: <code>Flutter_Widget_UIComponents</code>
 
 ---
 
-## Academic Development Context
-All repositories reflect coursework, laboratory exercises, and final project submissions. Emphasis is placed on clear documentation, structured code organization, and demonstrable system functionality suitable for academic evaluation and oral defense.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:94a3b8,100:64748b&height=35&section=header&text=Academic%20Development%20Context&fontSize=18&fontColor=0f172a" />
+
+All repositories are structured to support academic validation, including readable code, logical folder organization, and functional completeness. The projects are suitable for technical presentation, demonstration, and system defense.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=graywhite" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=graywhite" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 
 </div>
 
@@ -115,6 +75,6 @@ All repositories reflect coursework, laboratory exercises, and final project sub
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2933,50:374151,100:111827&height=45&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=70&section=footer" />
 
 </div>
