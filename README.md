@@ -1,11 +1,9 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b, #334155); padding: 30px; border-radius: 20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=120&section=header&text=Joedel%20Acera&fontSize=36&fontColor=ffffff" />
+<h1 style="color:#ffffff; margin-bottom:5px;">Joedel Ceasar J. Acera</h1>
+<h3 style="color:#cbd5e1; font-weight:400; margin-top:0;">Information Technology Student | Aspiring Software Developer | Philippines</h3>
 
-<h2 style="margin:5px 0 0 0;">Information Technology Student</h2>
-<h3 style="margin:2px 0 10px 0; font-weight:400;">Aspiring Software Developer | Philippines</h3>
-
-<div>
+<div style="margin:15px 0;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -18,59 +16,59 @@
 
 ---
 
-<!-- Academic Profile Card -->
-<div style="background: linear-gradient(135deg,#1e293b,#0f172a);border-radius:15px;padding:15px;margin:20px 0;color:white;">
-<h3>🎓 Academic Profile</h3>
-<p>All repositories are built for academic excellence, focusing on structured code, database integration, usability, and readiness for oral defense.</p>
+<!-- Academic Profile -->
+<div style="background: linear-gradient(135deg,#1e293b,#0f172a);border-radius:20px;padding:20px;margin:20px 0;color:white;">
+<h2>🎓 Academic Profile</h2>
+<p>This GitHub profile contains academic and prototype systems developed as part of Information Technology coursework. Projects are designed with emphasis on system structure, database integration, usability, and compliance with academic evaluation standards. Code organization and documentation are prepared for oral defense and technical review.</p>
 </div>
 
-<!-- Focus Areas Card -->
-<div style="background: linear-gradient(135deg,#334155,#1e293b);border-radius:15px;padding:15px;margin:20px 0;color:white;">
-<h3>🔬 Academic Focus Areas</h3>
+<!-- Focus Areas -->
+<div style="background: linear-gradient(135deg,#334155,#1e293b);border-radius:20px;padding:20px;margin:20px 0;color:white;">
+<h2>🔬 Academic Focus Areas</h2>
 <ul>
 <li>Web-Based System Development</li>
 <li>Mobile Application Development</li>
 <li>Database-Driven Applications</li>
 <li>Image Classification using Pre-trained Models</li>
-<li>Defense-Ready System Implementation</li>
+<li>Academic and Defense-Ready System Implementation</li>
 </ul>
 </div>
 
-<!-- Technical Competencies Card -->
-<div style="background: linear-gradient(135deg,#475569,#334155);border-radius:15px;padding:15px;margin:20px 0;color:white;">
-<h3>🛠 Technical Competencies</h3>
+<!-- Technical Competencies -->
+<div style="background: linear-gradient(135deg,#475569,#334155);border-radius:20px;padding:20px;margin:20px 0;color:white;">
+<h2>🛠 Technical Competencies</h2>
 <ul>
-<li><b>Languages:</b> Python, Dart, JavaScript, SQL</li>
+<li><b>Programming Languages:</b> Python, Dart, JavaScript, SQL</li>
 <li><b>Frameworks & Tools:</b> Flutter, Firebase Realtime Database, MySQL</li>
 <li><b>Software Concepts:</b> CRUD, Authentication, Role-Based Access</li>
 <li><b>Architecture & Design:</b> 3-Tier Architecture, Modular Development</li>
 </ul>
 </div>
 
-<!-- Selected Projects Card -->
-<div style="background: linear-gradient(135deg,#64748b,#475569);border-radius:15px;padding:15px;margin:20px 0;color:white;">
-<h3>📂 Selected Academic Projects</h3>
+<!-- Selected Projects -->
+<div style="background: linear-gradient(135deg,#64748b,#475569);border-radius:20px;padding:20px;margin:20px 0;color:white;">
+<h2>📂 Selected Academic Projects</h2>
 <p><b>Image Classification System</b><br/>
-An academic project using a pre-trained ML model, supporting image upload & camera capture, with Firebase Realtime Database integration.<br/>
+An academic implementation of an image classification application utilizing a pre-trained machine learning model. Supports image upload and camera capture, with prediction results stored and managed using Firebase Realtime Database.<br/>
 <code>Acera_Ancient_Artifacts_Classification_FinalProject</code></p>
 
 <p><b>Flutter UI Components</b><br/>
-Reusable Flutter widgets demonstrating responsive design, modularity, and interface principles for academic projects.<br/>
+A curated collection of reusable Flutter widgets demonstrating mobile interface design principles, responsiveness, and modular UI construction for academic system development.<br/>
 <code>Flutter_Widget_UIComponents</code></p>
 </div>
 
-<!-- Academic Context Card -->
-<div style="background: linear-gradient(135deg,#94a3b8,#64748b);border-radius:15px;padding:15px;margin:20px 0;color:#0f172a;">
-<h3>📘 Academic Development Context</h3>
-<p>All code is readable, structured, and fully functional, suitable for technical presentations, system demos, and academic defense.</p>
+<!-- Academic Development Context -->
+<div style="background: linear-gradient(135deg,#94a3b8,#64748b);border-radius:20px;padding:20px;margin:20px 0;color:#0f172a;">
+<h2>📘 Academic Development Context</h2>
+<p>All repositories are structured to support academic validation, including readable code, logical folder organization, and functional completeness. Projects are suitable for technical presentation, demonstration, and system defense.</p>
 </div>
 
 <!-- GitHub Stats -->
-<div align="center" style="display:flex;justify-content:space-around;flex-wrap:wrap;">
+<div align="center" style="display:flex;justify-content:space-around;flex-wrap:wrap;margin-top:30px;">
 <img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 </div>
 
-<div align="center" style="margin-top:20px;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=70&section=footer" />
+<div align="center" style="margin-top:30px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=50&section=footer" />
 </div>
