@@ -1,70 +1,87 @@
-# 👋 Hi, I'm Joedel Acera
+<div align="center">
 
-🎓 Information Technology Student  
-💻 Aspiring Software Developer  
-📍 Philippines
+# 🌟 Hi, I'm Joedel Acera 🌟
 
-I build **web systems**, **mobile apps**, and **machine learning projects** for academic and real-world use.
+🎓 **IT Student** | 💻 **Aspiring Software Developer**  
+📍 Philippines 🇵🇭  
 
----
+✨ *Turning ideas into systems* ✨
 
-## 🧠 Skills & Interests
-- Web-based Systems (PHP & MySQL)
-- Mobile App Development (Flutter & Dart)
-- Firebase Realtime Database
-- Image Classification (Machine Learning)
-- System Design (3-Tier Architecture)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 About Me
 
-**Languages**
-- PHP | Python | Dart | JavaScript | SQL
+💡 I enjoy building **web systems**, **mobile applications**, and **machine learning projects**  
+📚 Most of my projects are **academic & defense-ready systems**  
+🚀 Always learning, improving, and experimenting with new technologies
 
-**Frameworks & Tools**
-- Flutter
-- Firebase
-- MySQL
-- Git & GitHub
-- Teachable Machine
+---
+
+## 🧩 Tech Stack
+
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🛠️ Tools & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🏥 Hospital Management System
-- Appointment Management
-- Doctor Approval & Diagnosis
-- Email Notifications
-- Role-based Access
+🎯 Appointment management  
+🎯 Doctor approval & diagnosis  
+🎯 Email notifications  
+🎯 Role-based access  
 
-📂 Repository: **IT108_Acera**
+📂 **Repo:** `IT108_Acera`
 
 ---
 
 ### 🌍 Image Classification System
-- Upload Image / Camera Capture
-- Pre-trained ML Model
-- Firebase Realtime Database
+🖼️ Upload & camera image detection  
+🧠 Pre-trained ML model  
+☁️ Firebase Realtime Database  
 
-📂 Repository: **Acera_Ancient_Artifacts_Classification_FinalProject**
+📂 **Repo:** `Acera_Ancient_Artifacts_Classification_FinalProject`
 
 ---
 
 ### 📱 Flutter UI Components
-- Reusable Widgets
-- Clean UI Design
-- Mobile-ready Components
+🎨 Reusable widgets  
+📲 Clean mobile UI  
+⚡ Fast & responsive  
 
-📂 Repository: **Flutter_Widget_UIComponents**
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact)
+📂 **Repo:** `Flutter_Widget_UIComponents`
 
 ---
 
-✨ *Always learning. Always building.*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ **Always learning. Always building.** ✨  
+🔥 *Future Software Engineer* 🔥
+
+</div>
