@@ -1,74 +1,70 @@
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b, #334155); padding: 40px; border-radius: 25px;">
+<div align="center" style="background-color:#0f0f0f; padding:20px; border-radius:10px;">
 
-<h1 style="color:#ffffff; margin-bottom:5px;">Joedel Ceasar J. Acera</h1>
-<h3 style="color:#cbd5e1; font-weight:400; margin-top:0;">Information Technology Student | Aspiring Software Developer | Philippines</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:1f1f1f&height=120&section=header&text=Joedel%20Acera&fontSize=36&fontColor=0ff" />
 
-<div style="margin:20px 0;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<h2 style="color:#0ff;">Information Technology Student</h2>
+<h3 style="color:#ff0;">Aspiring Software Developer</h3>
+<p style="color:#f0f;">🇵🇭 Philippines</p>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0ff?style=for-the-badge&logo=python&logoColor=0f0)
+![Dart](https://img.shields.io/badge/Dart-0ff?style=for-the-badge&logo=dart&logoColor=0f0)
+![Flutter](https://img.shields.io/badge/Flutter-0ff?style=for-the-badge&logo=flutter&logoColor=0f0)
+![Firebase](https://img.shields.io/badge/Firebase-ff0?style=for-the-badge&logo=firebase&logoColor=0ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0f?style=for-the-badge&logo=javascript&logoColor=0ff)
+![MySQL](https://img.shields.io/badge/MySQL-0ff?style=for-the-badge&logo=mysql&logoColor=0ff)
 
 </div>
 
 ---
 
-<!-- Academic Profile -->
-<div style="background: linear-gradient(135deg,#1e40af,#1e3a8a);border-radius:25px;padding:25px;margin:20px 0;color:white;">
-<h2>🎓 Academic Profile</h2>
-<p>This GitHub profile contains academic and prototype systems developed as part of Information Technology coursework. Projects are designed with emphasis on structured code, database integration, usability, and readiness for academic defense.</p>
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#0ff;">Academic Profile</h3>
+<p style="color:#f0f;">
+This GitHub profile showcases academic and prototype systems developed as part of Information Technology coursework. Projects emphasize system design, database integration, usability, and academic evaluation standards. All code is structured and documented for technical presentation and defense readiness.
+</p>
 </div>
 
-<!-- Focus Areas -->
-<div style="background: linear-gradient(135deg,#047857,#065f46);border-radius:25px;padding:25px;margin:20px 0;color:white;">
-<h2>🔬 Academic Focus Areas</h2>
-<ul>
-<li>Web-Based System Development</li>
-<li>Mobile Application Development</li>
-<li>Database-Driven Applications</li>
-<li>Image Classification using Pre-trained Models</li>
-<li>Defense-Ready System Implementation</li>
-</ul>
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#ff0;">Focus Areas</h3>
+<p style="color:#0ff;">
+• Web-Based System Development<br/>
+• Mobile Application Development<br/>
+• Database-Driven Applications<br/>
+• Image Classification using Pre-trained Models<br/>
+• Academic and Defense-Ready System Implementation
+</p>
 </div>
 
-<!-- Technical Competencies -->
-<div style="background: linear-gradient(135deg,#9333ea,#7e22ce);border-radius:25px;padding:25px;margin:20px 0;color:white;">
-<h2>🛠 Technical Competencies</h2>
-<ul>
-<li><b>Programming Languages:</b> Python, Dart, JavaScript, SQL</li>
-<li><b>Frameworks & Tools:</b> Flutter, Firebase Realtime Database, MySQL</li>
-<li><b>Software Concepts:</b> CRUD, Authentication, Role-Based Access</li>
-<li><b>Architecture & Design:</b> 3-Tier Architecture, Modular Development</li>
-</ul>
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#f0f;">Technical Skills</h3>
+<p style="color:#ff0;">
+• <b>Languages:</b> Python, Dart, JavaScript, SQL<br/>
+• <b>Frameworks & Tools:</b> Flutter, Firebase, MySQL<br/>
+• <b>Software Concepts:</b> CRUD, Authentication, Role-Based Access<br/>
+• <b>Architecture & Design:</b> 3-Tier Architecture, Modular Development
+</p>
 </div>
 
-<!-- Selected Projects -->
-<div style="background: linear-gradient(135deg,#f97316,#ea580c);border-radius:25px;padding:25px;margin:20px 0;color:white;">
-<h2>📂 Selected Academic Projects</h2>
-<p><b>Image Classification System</b><br/>
-Academic implementation of an image classification app using a pre-trained ML model. Supports image upload & camera capture, with results stored in Firebase Realtime Database.<br/>
-<code>Acera_Ancient_Artifacts_Classification_FinalProject</code></p>
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#0ff;">Selected Projects</h3>
+<p style="color:#ff0;">
+<b>Image Classification System:</b> Academic project using a pre-trained ML model for image classification with upload & camera support. Data stored in Firebase Realtime Database.<br/>
+Repository: <code style="color:#0ff;">Acera_Ancient_Artifacts_Classification_FinalProject</code>
+</p>
 
-<p><b>Flutter UI Components</b><br/>
-Curated collection of reusable Flutter widgets demonstrating mobile interface design principles, responsiveness, and modularity.<br/>
-<code>Flutter_Widget_UIComponents</code></p>
+<p style="color:#f0f;">
+<b>Flutter UI Components:</b> Reusable Flutter widgets showcasing responsive design, modular UI, and mobile interface best practices.<br/>
+Repository: <code style="color:#0ff;">Flutter_Widget_UIComponents</code>
+</p>
 </div>
 
-<!-- Academic Development Context -->
-<div style="background: linear-gradient(135deg,#14b8a6,#0d9488);border-radius:25px;padding:25px;margin:20px 0;color:white;">
-<h2>📘 Academic Development Context</h2>
-<p>Repositories are structured for academic validation, with readable code, logical organization, and functional completeness. Perfect for technical presentations and system defense.</p>
-</div>
-
-<!-- GitHub Stats -->
-<div align="center" style="display:flex;justify-content:space-around;flex-wrap:wrap;margin-top:30px;">
+<div align="center" style="background-color:#0f0f0f; padding:10px; border-radius:10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 </div>
 
-<div align="center" style="margin-top:30px;">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=50&section=footer" />
+<div align="center" style="background-color:#0f0f0f; padding:20px; border-radius:10px; margin-top:10px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:1f1f1f&height=70&section=footer" />
 </div>
