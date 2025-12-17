@@ -1,56 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=Joedel%20Acera&fontSize=34&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Joedel%20Acera&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 
-Information Technology Student • Aspiring Software Developer • Philippines
+<b>Information Technology Student</b> • <b>Aspiring Software Developer</b> • Philippines
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## Profile Summary
-I am an Information Technology student with hands-on experience in building academic and prototype systems. My interests include web and mobile application development, database-driven systems, and basic machine learning applications. Most projects are developed for coursework and final defense requirements, focusing on functionality, clarity, and system flow.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Profile Overview
+I am an Information Technology student focused on developing academic and prototype systems. My work includes web and mobile application development, database-driven solutions, and basic machine learning applications. I prioritize clarity, system flow, and usability in all projects.
+
+</td>
+<td width="50%" valign="top">
+
+### Core Focus Areas
+• Web-Based Systems  
+• Mobile Application Development  
+• Firebase & Database Integration  
+• Image Classification (ML)  
+• Academic & Defense-Ready Systems  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
-**Languages:** Python, Dart, JavaScript, SQL  
-**Frameworks & Tools:** Flutter, Firebase Realtime Database, MySQL, Git, GitHub  
-**Core Concepts:** CRUD Systems, Authentication, Role-Based Access, 3-Tier Architecture, Image Classification
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### Languages
+Python  
+Dart  
+JavaScript  
+SQL  
+
+</td>
+<td width="33%" valign="top">
+
+### Frameworks & Tools
+Flutter  
+Firebase Realtime DB  
+MySQL  
+Git & GitHub  
+
+</td>
+<td width="34%" valign="top">
+
+### Development Concepts
+CRUD Operations  
+Authentication  
+Role-Based Access  
+3-Tier Architecture  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Selected Projects
-**Image Classification System**  
-• Image upload and camera capture  
-• Pre-trained machine learning model  
-• Firebase Realtime Database  
-Repository: `Acera_Ancient_Artifacts_Classification_FinalProject`
 
-**Flutter UI Components**  
-• Reusable widgets and layouts  
-• Clean and responsive mobile UI  
-Repository: `Flutter_Widget_UIComponents`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Academic IT Projects**  
-• System development and UI design  
-• Database integration  
-Repository: `IT120`
+<b>Image Classification System</b><br/>
+• Image upload and camera capture<br/>
+• Pre-trained ML model<br/>
+• Firebase Realtime Database<br/>
+Repository: <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
+
+</td>
+<td width="50%" valign="top">
+
+<b>Flutter UI Components</b><br/>
+• Reusable widgets and layouts<br/>
+• Responsive mobile UI<br/>
+Repository: <code>Flutter_Widget_UIComponents</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="49%" />
 
 </div>
 
@@ -58,8 +111,6 @@ Repository: `IT120`
 
 <div align="center">
 
-Consistent learning • Practical development • Continuous improvement
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=80&section=footer" />
 
 </div>
