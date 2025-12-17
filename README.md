@@ -1,78 +1,70 @@
-<div align="center">
+<div align="center" style="background-color:#0f0f0f; padding:20px; border-radius:10px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=110&section=header&text=Joedel%20Acera&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:1f1f1f&height=120&section=header&text=Joedel%20Acera&fontSize=36&fontColor=0ff" />
 
-<b>Information Technology Student</b><br/>
-<b>Aspiring Software Developer</b><br/>
-🇵🇭 Philippines
+<h2 style="color:#0ff;">Information Technology Student</h2>
+<h3 style="color:#ff0;">Aspiring Software Developer</h3>
+<p style="color:#f0f;">🇵🇭 Philippines</p>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0ff?style=for-the-badge&logo=python&logoColor=0f0)
+![Dart](https://img.shields.io/badge/Dart-0ff?style=for-the-badge&logo=dart&logoColor=0f0)
+![Flutter](https://img.shields.io/badge/Flutter-0ff?style=for-the-badge&logo=flutter&logoColor=0f0)
+![Firebase](https://img.shields.io/badge/Firebase-ff0?style=for-the-badge&logo=firebase&logoColor=0ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0f?style=for-the-badge&logo=javascript&logoColor=0ff)
+![MySQL](https://img.shields.io/badge/MySQL-0ff?style=for-the-badge&logo=mysql&logoColor=0ff)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=35&section=header&text=Academic%20Profile&fontSize=18&fontColor=ffffff" />
-
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#0ff;">Academic Profile</h3>
+<p style="color:#f0f;">
 This GitHub profile showcases academic and prototype systems developed as part of Information Technology coursework. Projects emphasize system design, database integration, usability, and academic evaluation standards. All code is structured and documented for technical presentation and defense readiness.
+</p>
+</div>
 
----
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#ff0;">Focus Areas</h3>
+<p style="color:#0ff;">
+• Web-Based System Development<br/>
+• Mobile Application Development<br/>
+• Database-Driven Applications<br/>
+• Image Classification using Pre-trained Models<br/>
+• Academic and Defense-Ready System Implementation
+</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:1e293b&height=35&section=header&text=Focus%20Areas&fontSize=18&fontColor=ffffff" />
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#f0f;">Technical Skills</h3>
+<p style="color:#ff0;">
+• <b>Languages:</b> Python, Dart, JavaScript, SQL<br/>
+• <b>Frameworks & Tools:</b> Flutter, Firebase, MySQL<br/>
+• <b>Software Concepts:</b> CRUD, Authentication, Role-Based Access<br/>
+• <b>Architecture & Design:</b> 3-Tier Architecture, Modular Development
+</p>
+</div>
 
-• Web-Based System Development  
-• Mobile Application Development  
-• Database-Driven Applications  
-• Image Classification using Pre-trained Models  
-• Academic and Defense-Ready System Implementation  
+<div style="background-color:#0f0f0f; padding:10px; border-radius:10px; margin-bottom:10px;">
+<h3 style="color:#0ff;">Selected Projects</h3>
+<p style="color:#ff0;">
+<b>Image Classification System:</b> Academic project using a pre-trained ML model for image classification with upload & camera support. Data stored in Firebase Realtime Database.<br/>
+Repository: <code style="color:#0ff;">Acera_Ancient_Artifacts_Classification_FinalProject</code>
+</p>
 
----
+<p style="color:#f0f;">
+<b>Flutter UI Components:</b> Reusable Flutter widgets showcasing responsive design, modular UI, and mobile interface best practices.<br/>
+Repository: <code style="color:#0ff;">Flutter_Widget_UIComponents</code>
+</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:475569,100:334155&height=35&section=header&text=Technical%20Skills&fontSize=18&fontColor=ffffff" />
-
-• **Languages:** Python, Dart, JavaScript, SQL  
-• **Frameworks & Tools:** Flutter, Firebase, MySQL  
-• **Software Concepts:** CRUD, Authentication, Role-Based Access  
-• **Architecture & Design:** 3-Tier Architecture, Modular Development  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:64748b,100:475569&height=35&section=header&text=Selected%20Projects&fontSize=18&fontColor=ffffff" />
-
-<b>Image Classification System</b>  
-Academic project using a pre-trained ML model for image classification with upload & camera support. Data stored in Firebase Realtime Database.  
-Repository: <code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
-
-<b>Flutter UI Components</b>  
-Reusable Flutter widgets showcasing responsive design, modular UI, and mobile interface best practices.  
-Repository: <code>Flutter_Widget_UIComponents</code>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:94a3b8,100:64748b&height=35&section=header&text=Academic%20Context&fontSize=18&fontColor=0f172a" />
-
-All repositories are structured for academic validation: readable code, logical folder organization, and functional completeness. Projects are suitable for technical presentations, demonstrations, and defense.
-
----
-
-<div align="center">
-
+<div align="center" style="background-color:#0f0f0f; padding:10px; border-radius:10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=70&section=footer" />
-
+<div align="center" style="background-color:#0f0f0f; padding:20px; border-radius:10px; margin-top:10px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a1a,100:1f1f1f&height=70&section=footer" />
 </div>
