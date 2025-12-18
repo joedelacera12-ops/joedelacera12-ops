@@ -1,30 +1,67 @@
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b, #334155); padding: 30px; border-radius: 20px;">
+<!-- HERO SECTION -->
+<div align="center" style="
+background: linear-gradient(135deg,#020617,#0f172a,#1e293b);
+padding:40px;
+border-radius:22px;
+box-shadow:0 0 40px rgba(56,189,248,0.25);
+">
 
-<h1 style="color:#ffffff; margin-bottom:5px;">Joedel Ceasar J. Acera</h1>
-<h3 style="color:#cbd5e1; font-weight:400; margin-top:0;">Information Technology Student | Aspiring Software Developer | Philippines</h3>
+<h1 style="color:#f8fafc;margin-bottom:8px;">
+Joedel Ceasar J. Acera
+</h1>
 
-<div style="margin:15px 0;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<h3 style="color:#94a3b8;font-weight:400;margin-top:0;">
+Information Technology Student • Aspiring Software Developer • Philippines
+</h3>
+
+<div style="margin:20px 0;">
+<img src="https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-38bdf8?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-22d3ee?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-facc15?style=for-the-badge&logo=firebase&logoColor=000"/>
+<img src="https://img.shields.io/badge/JavaScript-fbbf24?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/MySQL-60a5fa?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 </div>
 
 ---
 
-<!-- Academic Profile -->
-<div style="background: linear-gradient(135deg,#1e40af,#1e3a8a);border-radius:20px;padding:20px;margin:20px 0;color:white;">
-<h2>🎓 Academic Profile</h2>
-<p>This GitHub profile contains academic and prototype systems developed as part of Information Technology coursework. Projects are designed with emphasis on system structure, database integration, usability, and compliance with academic evaluation standards. Code organization and documentation are prepared for oral defense and technical review.</p>
+<!-- ACADEMIC PROFILE -->
+<div style="
+background: linear-gradient(135deg,#020617,#1e3a8a);
+border-radius:20px;
+padding:22px;
+margin:26px 0;
+color:#e5e7eb;
+box-shadow:0 0 25px rgba(59,130,246,0.25);
+">
+
+<h2 style="color:#93c5fd;">🎓 Academic Profile</h2>
+
+<p>
+This GitHub profile contains academic and prototype systems developed as part of
+Information Technology coursework. Projects emphasize system structure,
+database integration, usability, and compliance with academic evaluation standards.
+All implementations are prepared for oral defense and technical review.
+</p>
+
 </div>
 
-<!-- Focus Areas -->
-<div style="background: linear-gradient(135deg,#047857,#065f46);border-radius:20px;padding:20px;margin:20px 0;color:white;">
-<h2>🔬 Academic Focus Areas</h2>
+---
+
+<!-- FOCUS AREAS -->
+<div style="
+background: linear-gradient(135deg,#022c22,#065f46);
+border-radius:20px;
+padding:22px;
+margin:26px 0;
+color:#ecfeff;
+box-shadow:0 0 25px rgba(16,185,129,0.25);
+">
+
+<h2 style="color:#5eead4;">🔬 Academic Focus Areas</h2>
+
 <ul>
 <li>Web-Based System Development</li>
 <li>Mobile Application Development</li>
@@ -32,43 +69,103 @@
 <li>Image Classification using Pre-trained Models</li>
 <li>Academic and Defense-Ready System Implementation</li>
 </ul>
+
 </div>
 
-<!-- Technical Competencies -->
-<div style="background: linear-gradient(135deg,#9333ea,#7e22ce);border-radius:20px;padding:20px;margin:20px 0;color:white;">
-<h2>🛠 Technical Competencies</h2>
+---
+
+<!-- TECHNICAL COMPETENCIES -->
+<div style="
+background: linear-gradient(135deg,#2e1065,#6d28d9);
+border-radius:20px;
+padding:22px;
+margin:26px 0;
+color:#f5f3ff;
+box-shadow:0 0 25px rgba(168,85,247,0.3);
+">
+
+<h2 style="color:#c4b5fd;">🛠 Technical Competencies</h2>
+
 <ul>
 <li><b>Programming Languages:</b> Python, Dart, JavaScript, SQL</li>
 <li><b>Frameworks & Tools:</b> Flutter, Firebase Realtime Database, MySQL</li>
-<li><b>Software Concepts:</b> CRUD, Authentication, Role-Based Access</li>
+<li><b>Software Concepts:</b> CRUD Operations, Authentication, Role-Based Access</li>
 <li><b>Architecture & Design:</b> 3-Tier Architecture, Modular Development</li>
 </ul>
+
 </div>
 
-<!-- Selected Projects -->
-<div style="background: linear-gradient(135deg,#f97316,#ea580c);border-radius:20px;padding:20px;margin:20px 0;color:white;">
-<h2>📂 Selected Academic Projects</h2>
-<p><b>Image Classification System</b><br/>
-An academic implementation of an image classification application utilizing a pre-trained machine learning model. Supports image upload and camera capture, with prediction results stored and managed using Firebase Realtime Database.<br/>
-<code>Acera_Ancient_Artifacts_Classification_FinalProject</code></p>
+---
 
-<p><b>Flutter UI Components</b><br/>
-A curated collection of reusable Flutter widgets demonstrating mobile interface design principles, responsiveness, and modular UI construction for academic system development.<br/>
-<code>Flutter_Widget_UIComponents</code></p>
+<!-- SELECTED PROJECTS -->
+<div style="
+background: linear-gradient(135deg,#431407,#ea580c);
+border-radius:20px;
+padding:22px;
+margin:26px 0;
+color:#fff7ed;
+box-shadow:0 0 25px rgba(249,115,22,0.35);
+">
+
+<h2 style="color:#fed7aa;">📂 Selected Academic Projects</h2>
+
+<p>
+<b>Image Classification System</b><br/>
+An academic implementation of an image classification application utilizing a
+pre-trained machine learning model. Supports image upload and camera capture,
+with prediction results managed using Firebase Realtime Database.<br/>
+<code>Acera_Ancient_Artifacts_Classification_FinalProject</code>
+</p>
+
+<p>
+<b>Flutter UI Components</b><br/>
+A curated collection of reusable Flutter widgets demonstrating responsive design,
+modular UI construction, and mobile interface best practices for academic systems.<br/>
+<code>Flutter_Widget_UIComponents</code>
+</p>
+
 </div>
 
-<!-- Academic Development Context -->
-<div style="background: linear-gradient(135deg,#14b8a6,#0d9488);border-radius:20px;padding:20px;margin:20px 0;color:white;">
-<h2>📘 Academic Development Context</h2>
-<p>All repositories are structured to support academic validation, including readable code, logical folder organization, and functional completeness. Projects are suitable for technical presentation, demonstration, and system defense.</p>
+---
+
+<!-- ACADEMIC CONTEXT -->
+<div style="
+background: linear-gradient(135deg,#042f2e,#0d9488);
+border-radius:20px;
+padding:22px;
+margin:26px 0;
+color:#ecfeff;
+box-shadow:0 0 25px rgba(20,184,166,0.3);
+">
+
+<h2 style="color:#99f6e4;">📘 Academic Development Context</h2>
+
+<p>
+All repositories are structured for academic validation, featuring readable code,
+logical folder organization, and functional completeness. Projects are suitable for
+technical demonstrations, evaluation, and system defense.
+</p>
+
 </div>
 
-<!-- GitHub Stats -->
-<div align="center" style="display:flex;justify-content:space-around;flex-wrap:wrap;margin-top:30px;">
-<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
+---
+
+<!-- GITHUB STATS -->
+<div align="center" style="
+display:flex;
+gap:18px;
+flex-wrap:wrap;
+justify-content:center;
+margin-top:32px;
+">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joedelacera12-ops&show_icons=true&hide_border=true&theme=tokyonight" width="47%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joedelacera12-ops&layout=compact&hide_border=true&theme=tokyonight" width="47%"/>
+
 </div>
 
+<!-- FOOTER -->
 <div align="center" style="margin-top:30px;">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=50&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:334155&height=70&section=footer"/>
 </div>
